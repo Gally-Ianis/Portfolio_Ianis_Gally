@@ -6,8 +6,7 @@ Je m'appelle **Ianis Gally**, étudiant en 1ère année du **BUT GEII** au Creus
 Ce site a été conçu pour présenter mes compétences, mon parcours, et permettre de me contacter facilement.
 
 ## 🌐 Accéder au site
-🔗 [Clique ici pour voir le portfolio en ligne](https://ton-nom.github.io/portfolio-ianis-gally)  
-> *(Remplace "ton-nom" par ton identifiant GitHub)*
+🔗 [Clique ici pour voir le portfolio en ligne](https://Gally-Ianis.github.io/portfolio-ianis-gally) 
 
 ## 📁 Contenu
 
@@ -25,7 +24,7 @@ Ce site a été conçu pour présenter mes compétences, mon parcours, et permet
 
 ## 📫 Me contacter
 
-- Email : ianis.gally@example.com  
+- Email : ianis.gally@gmail.com  
 - LinkedIn : [ton-lien-ici](https://linkedin.com)
 
 ---
